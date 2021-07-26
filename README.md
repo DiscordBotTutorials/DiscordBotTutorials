@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Landon! (AKA Discord Bot Tutorials).
 
 
 
-Here are some ideas to get you started:
+Information:
 
 - 🔭 I’m currently working on discord bots.
 - 🌱 I’m currently learning javascript.
